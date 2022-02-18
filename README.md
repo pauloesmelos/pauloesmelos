@@ -1,11 +1,16 @@
-- 👋 Whatsupp :), I’m Paulo Eduardo Souza de Melos , or @pauloesmelos in GitHub
-- 👀 I’m interested in technologies off full stack development   | ![htm5](https://user-images.githubusercontent.com/74941958/152050460-95fdb855-7659-413b-ab42-a32ca46151c8.svg) | ![css3](https://user-images.githubusercontent.com/74941958/152050493-759ef8a1-97fe-43b1-a427-1fc2623be837.svg) | ![js](https://user-images.githubusercontent.com/74941958/152050516-4281e907-abe2-44d6-9631-3e9e2c154772.svg) | ![git](https://user-images.githubusercontent.com/74941958/152050719-4341a8f8-6183-431e-96f2-5bc5fa161faf.svg) |
+Eu tenho interesse em economia e computação .Atualmente estudo tecnologias voltadas pro desenvolvimento de software. No meu tempo livre eu gosto de praticar esportes e ler sobre economia, psicologia, ficção e história (principalmente sobre a WWW2).
 
-- 🌱 I’m currently learning | ![Java_logo_PNG8](https://user-images.githubusercontent.com/74941958/152052392-4b99bc4a-3528-474a-bbd8-1202ee779bcd.png) | and |![sql](https://user-images.githubusercontent.com/74941958/152052446-1e073e17-0e9a-497c-8ef9-88f85ac4304e.svg) | for development :).
+- <b>Tecnologias que eu tenho domínio e estudo com frequência</b>
+     
+![html](https://user-images.githubusercontent.com/74941958/154600591-3e7564c7-ec29-45d1-9a68-cf753b201ca9.png) ![java](https://user-images.githubusercontent.com/74941958/154600623-7013e8c8-4ef2-4867-af81-b61bbc913ea3.png) ![css](https://user-images.githubusercontent.com/74941958/154600635-c0121e75-3b6c-4f7e-8593-60a14f91946a.png)  ![mysql](https://user-images.githubusercontent.com/74941958/154600651-a0b1ca09-e0b4-435f-8358-c51f6df6e691.png)  ![cpp](https://user-images.githubusercontent.com/74941958/154600668-5ce22685-a733-48f7-b643-1056df52df89.png)
 
-- 📫 How to reach me in Youtube: https://www.youtube.com/channel/UCPsQXk6_2Jh6chp2N-tLqcA
-  my Gmail: paulo.melos@sou.unifal-mg.edu.br
 
+
+-<b> Algumas das minhas redes sociais</b>
+
+gmail: paulo.melos@sou.unifal-mg.edu.br
+instagram: https://www.instagram.com/paulo_rm00/
+github: https://github.com/pauloesmelos/
 <!---
 pauloesmelos/pauloesmelos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
