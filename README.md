@@ -1,4 +1,4 @@
-Eu tenho interesse em economia e computação . Atualmente estudo tecnologias voltadas pro desenvolvimento de software. No meu tempo livre eu gosto de praticar esportes e ler sobre economia, psicologia, ficção e história (principalmente sobre a WWW2).
+Atualmente estudo tecnologias voltadas pro desenvolvimento de software. No meu tempo livre eu gosto de ler sobre economia, psicologia e ficção.
 <h1>:)</h1>
 <br><br><br>
 • <b>Tecnologias que eu estudo com frequência</b>
