@@ -54,7 +54,7 @@ Atualmente estudo tecnologias voltadas pro desenvolvimento de software. No meu t
 <img height="35" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"> 
 </code>
 <br><br><br><br>
-• <b>Minha redes sociais</b> <br>
+• <b>Minhas redes sociais</b> <br>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pauloesmelos)](https://github.com/pauloesmelos) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/null/)](https://www.linkedin.com/in/null/)
 <a href="https://wa.me/<035991897871>" alt="WhatsApp" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/<035991897871>"/></a> <a href="mailto:<paulo.melos@sou.unifal-mg.edu.br>" alt="gmail" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<paulo.melos@sou.unifal-mg.edu.br>" /></a>
