@@ -1,5 +1,5 @@
 Atualmente estudo tecnologias voltadas pro desenvolvimento de software. No meu tempo livre eu gosto de ler sobre economia, psicologia e ficção.
-<h1>:)</h1>
+<h1>......</h1>
 <br><br><br>
 • <b>Tecnologias que eu estudo com frequência</b>
 <br>
