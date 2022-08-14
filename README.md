@@ -1,5 +1,5 @@
 what's up!
-<h1>......</h1>
+<h1>.</h1>
 <br><br><br>
 • <b>Tecnologias que eu estudo com frequência</b>
 <br>
@@ -56,7 +56,7 @@ what's up!
 <br><br><br><br>
 • <b>Minhas redes sociais</b> <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/numcrieiaindakk/)](https://www.linkedin.com/in/numcrieiaindakk/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nulo/)](https://www.linkedin.com/in/nulo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-orange?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/paulo.melos@sou.unifal-mg.edu.br)](https://mail.google.com/paulo.melos@sou.unifal-mg.edu.br)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=WhatsApp&logoColor=white&link=tel:035991897871)](tel:035991897871)
 
