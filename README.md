@@ -1,4 +1,4 @@
-Atualmente estudo tecnologias voltadas pro desenvolvimento de software. No meu tempo livre eu gosto de ler sobre economia, psicologia e ficção.
+what's up!
 <h1>......</h1>
 <br><br><br>
 • <b>Tecnologias que eu estudo com frequência</b>
@@ -7,6 +7,10 @@ Atualmente estudo tecnologias voltadas pro desenvolvimento de software. No meu t
 <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">   
  </code>    
      
+ <code>
+<img height="35" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> 
+</code> 
+
 <code>
 <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
  </code>     
@@ -39,10 +43,6 @@ Atualmente estudo tecnologias voltadas pro desenvolvimento de software. No meu t
 </code>   
 
 <code>
-<img height="35" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> 
-</code> 
-
-<code>
 <img height="35" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
 </code>
 
@@ -57,7 +57,7 @@ Atualmente estudo tecnologias voltadas pro desenvolvimento de software. No meu t
 • <b>Minhas redes sociais</b> <br>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pauloesmelos)](https://github.com/pauloesmelos) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/null/)](https://www.linkedin.com/in/null/)
-<a href="https://wa.me/<035991897871>" alt="WhatsApp" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/<035991897871>"/></a> <a href="mailto:<paulo.melos@sou.unifal-mg.edu.br>" alt="gmail" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<paulo.melos@sou.unifal-mg.edu.br>" /></a>
+ <a href="mailto:<paulo.melos@sou.unifal-mg.edu.br>" alt="gmail" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<paulo.melos@sou.unifal-mg.edu.br>" /></a>
 
 
 
