@@ -56,7 +56,9 @@ what's up!
 <br><br><br><br>
 • <b>Minhas redes sociais</b> <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/null/)](https://www.linkedin.com/in/null/)
+
+<a href="mailto:paulo.melos@sou.unifal-mg.edu.br"> <img src="https://img.shields.io/badge/-gmail-red"> </a> <a href="tel:035991897871"> <img src="https://img.shields.io/badge/-whatsapp-green"> </a> <a href="num criei ainda ;p"> <img src="https://img.shields.io/badge/-linkedin-blue"> </a>
+
 
 
 
