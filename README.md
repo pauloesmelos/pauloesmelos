@@ -56,8 +56,8 @@ what's up!
 <br><br><br><br>
 • <b>Minhas redes sociais</b> <br>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pauloesmelos)](https://github.com/pauloesmelos) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/null/)](https://www.linkedin.com/in/null/)
- <a href="mailto:<paulo.melos@sou.unifal-mg.edu.br>" alt="gmail" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<paulo.melos@sou.unifal-mg.edu.br>" /></a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/null/)](https://www.linkedin.com/in/null/)
+
 
 
 
