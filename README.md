@@ -1,5 +1,5 @@
 what's up!
-Linkedin: https://www.linkedin.com/in/pauloeduardomelos/
+
 <h1>.</h1>
 <br><br><br>
 • <b>Tecnologias que eu estudo com frequência</b>
