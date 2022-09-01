@@ -59,7 +59,7 @@ what's up!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pauloeduardomelos/)](https://www.linkedin.com/in/pauloeduardomelos/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-orange?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/paulo.melos@sou.unifal-mg.edu.br)](https://mail.google.com/paulo.melos@sou.unifal-mg.edu.br)
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=WhatsApp&logoColor=white&link=tel:035991897871)](tel:035991897871)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=WhatsApp&logoColor=white&link=035991897871)](035991897871)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCPsQXk6_2Jh6chp2N-tLqcA)](https://www.youtube.com/channel/UCPsQXk6_2Jh6chp2N-tLqcA)
 
 
