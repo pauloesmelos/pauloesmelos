@@ -23,11 +23,7 @@ what's up!
 <code>
 <img height="35" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">  
  </code>    
-     
-<code>
-<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg"> 
-</code>     
-     
+             
 <code>
 <img height="35" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> 
 </code>     
