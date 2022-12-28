@@ -1,52 +1,27 @@
-what's up visitor!
-
-<h1>.</h1>
-<br><br><br>
-• <b>Tecnologias que eu estudo</b>
+<b>@pauloesmelos</b> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 <br>
-<code>
-<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">   
- </code>    
-     
- <code>
-<img height="35" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> 
-</code> 
 
-<code>
-<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
- </code>     
-     
-<code>
-<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">   
- </code>       
-             
-<code>
-<img height="35" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> 
-</code>     
- 
- <br><br><br>
-• <b>Tecnologias que eu pretendo aprender</b> 
-   
-<code>
-<img height="35" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"> 
-</code>     
-    
-<code>
-<img height="35" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
-</code>   
+<div display="flex">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloesmelos&show_icons=true&theme=dracula">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=pauloesmelos&layout=compact&langs_count=168&theme=dracula">
+</div>
+<br>
 
-<code>
-<img height="35" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
-</code>
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+</div>
+<br>
 
-<code>
-<img height="35" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> 
-</code>
-
-<code>
-<img height="35" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"> 
-</code>
-<br><br><br><br>
+<hr>
 • <b>Links</b> <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pauloeduardomelos/)](https://www.linkedin.com/in/pauloeduardomelos/)
