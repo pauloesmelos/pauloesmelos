@@ -1,12 +1,15 @@
-<b>• pauloesmelos</b> 
+
+<b>• Estatísticas</b> 
 <br>
 
 <div display="flex">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pauloesmelos&layout=compact&langs_count=168&theme=dark">
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=pauloesmelos&layout=compact&langs_count=168&theme=dark">
   <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloesmelos&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
 </div>
 <br>
+<br>
 
+<b>• Linguagens/Ferramentas </b>
 <div>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -20,7 +23,8 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 </div>
 <br>
-• <b>Links</b> <br>
+<br>
+• <b>Links</b><br><br>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pauloeduardomelos/)](https://www.linkedin.com/in/pauloeduardomelos/)
