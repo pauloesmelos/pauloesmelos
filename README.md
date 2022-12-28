@@ -1,9 +1,9 @@
-<b>@pauloesmelos</b> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+<b>• pauloesmelos</b> 
 <br>
 
 <div display="flex">
-  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloesmelos&show_icons=true&theme=dracula">
-  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=pauloesmelos&layout=compact&langs_count=168&theme=dracula">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pauloesmelos&layout=compact&langs_count=168&theme=dark">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloesmelos&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
 </div>
 <br>
 
@@ -20,14 +20,17 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 </div>
 <br>
-
-<hr>
 • <b>Links</b> <br>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pauloeduardomelos/)](https://www.linkedin.com/in/pauloeduardomelos/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-orange?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/paulo.melos@sou.unifal-mg.edu.br)](https://mail.google.com/paulo.melos@sou.unifal-mg.edu.br)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=WhatsApp&logoColor=white&link=035991897871)](035991897871)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCPsQXk6_2Jh6chp2N-tLqcA)](https://www.youtube.com/channel/UCPsQXk6_2Jh6chp2N-tLqcA)
+[![Insatagram Badge](https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=Instagram&logoColor=none&link=https://www.instagram.com/pauloesmelos/)](https://www.instagram.com/pauloesmelos/)
+<br>
+<hr>
+<img src="https://profile-counter.glitch.me/pauloesmelos/count.svg">
 
 
 
