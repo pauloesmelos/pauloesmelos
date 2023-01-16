@@ -1,6 +1,7 @@
 <h1>Whats'up :)</h1>
 <b>• Estatísticas</b> 
 <br>
+<br>
 
 <div display="flex">
   <img height="230em" src="https://github-readme-stats.vercel.app/api?username=pauloesmelos&layout=compact&langs_count=168&theme=dark">
