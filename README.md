@@ -1,4 +1,5 @@
-<h1>Whats'up :)</h1>
+<h1>Whats'up :) !!</h1>
+
 <b>• Estatísticas</b> 
 <br>
 <br>
@@ -39,6 +40,7 @@
 <br>
 <hr>
 <img src="https://profile-counter.glitch.me/pauloesmelos/count.svg">
+<i>© paulo eduardo souza de melos</i>
 
 
 
