@@ -40,7 +40,7 @@
 <br>
 <hr>
 <img src="https://profile-counter.glitch.me/pauloesmelos/count.svg">
-<i>© paulo eduardo souza de melos</i>
+<i>© paulo melos</i>
 
 
 
