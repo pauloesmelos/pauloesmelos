@@ -1,4 +1,9 @@
-<h1></h1>
+<b>• Sobre </b>
+<p>
+  Olá, seja bem-vindo. Sou desenvolvedor front-end e graduando em Ciência da Computação pela Universiade Federal de Alfenas. Possuo experiência em tecnologias como React.js, JavaScript, Tailwind CSS, Styled Components e como Figma. Apaixonado por criar projetos práticos, com foco em desenvolvimento responsivo e mobile-first. Atualmente estou estudando TypeScript, Next.js, bem como o aprimoramento do inglês. Confira meus projetos no GitHub!
+</p>
+<br>
+<br>
 
 <b>• Estatísticas</b> 
 <br>
