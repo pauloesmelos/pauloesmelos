@@ -3,7 +3,7 @@
   Olá, seja bem-vindo. Meu nome é Paulo Eduardo Souza de Melos, sou desenvolvedor de software front-end e graduando em Ciência da Computação pela Universidade Federal de Alfenas.
 </p>
 <p>
-  Possuo experiência profissional em tecnologias como React.js, JavaScript, Tailwind CSS, Styled Components e Figma (prototipagem de produtos). Sou apaixonado por criar projetos práticos, com foco em desenvolvimento responsivo e mobile-first. Até o momento, pude estagiar durante 1 ano e 6 meses numa consolidade empresa do ramo de engenharia, trabalhando no time de desenvolvimento.
+  Possuo experiência profissional em tecnologias como React.js, JavaScript, Tailwind CSS, Styled Components e Figma (prototipagem de produtos). Sou apaixonado por criar projetos práticos, com foco em desenvolvimento responsivo e mobile-first. Até o momento, pude estagiar durante 1 ano e 6 meses numa consolidada empresa do ramo de engenharia, trabalhando no time de desenvolvimento.
 </p>
 <p>
   Atualmente estou estudando TypeScript, Next.js e aprimorando o inglês. Também pretendo aprender em breve conceitos avançados de UI/UX, cruciais para um profissional do ramo. Confira meus projetos no GitHub!
